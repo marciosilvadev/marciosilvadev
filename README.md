@@ -10,7 +10,9 @@
 
 ### 🛠️ Meus projetos
 
-☕ **Café Aurora** — Meu primeiro projeto publicado no GitHub! Um site acadêmico desenvolvido com HTML e CSS, no qual coloquei em prática meus conhecimentos de desenvolvimento web.
+☕ **[Café Aurora](https://github.com/marciosilvadev/projeto_cafe_aurora)** — Meu primeiro projeto publicado no GitHub! Um site acadêmico desenvolvido com HTML e CSS, no qual coloquei em prática meus conhecimentos de desenvolvimento web.
+
+📱 **[Hora de Estudar](https://github.com/marciosilvadev/hora_de_estudar)** (versão 1.0) — Meu segundo projeto publicado no GitHub! Um aplicativo mobile desenvolvido com Flutter e Dart para organizar os estudos, com cadastro de matérias e assuntos, cronômetro Pomodoro e acompanhamento do progresso.
 
 🚧 **Novos projetos em breve!** Estou estudando novas tecnologias e preparando projetos para explorar diferentes áreas da computação. A ideia é aprender fazendo e compartilhar minha evolução por aqui.
 
@@ -22,7 +24,7 @@
 
 ### 📫 Vamos nos conectar?
 
-💼 [LinkedIn](https://www.linkedin.com/in/marciosilvadev) | 💻 [GitHub](https://github.com/marciosilva-dev)
+💼 [LinkedIn](https://www.linkedin.com/in/marciosilvadev) | 💻 [GitHub](https://github.com/marciosilvadev)
 
 ---
 
